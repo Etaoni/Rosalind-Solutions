@@ -1,2 +1,2 @@
 # Rosalind-Solutions
-These are my solutions to rosalind.info/problems
+My solutions to rosalind.info/problems in python 3
