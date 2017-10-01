@@ -1,2 +1,2 @@
 # Rosalind-Solutions
-My solutions to rosalind.info/problems
+These are my solutions to rosalind.info/problems
